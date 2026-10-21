@@ -6,5 +6,14 @@
     <description>Updates for PushMail, Push Refresh's Mac mail app.</description>
     <language>en</language>
     <!-- releases, newest first -->
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Wed, 21 Oct 2026 00:26:20 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First team release of PushMail</li><li>Daily Brief written by Claude, with Slack, GitHub, Vercel and Notion alongside Gmail</li><li>Multiple Gmail accounts with an account switcher</li><li>Automatic updates</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.1.0/PushMail-0.1.0.zip" sparkle:edSignature="0KL4e18dk1Pi+LrnXlm23SjfiI+h83/ITrIYwGMoCXXWGf6T/Iklu7MNDiDUBAjRYw3uVS6nQB7wOZShRb2NCg==" length="4692985" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
