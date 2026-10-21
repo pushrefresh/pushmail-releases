@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Wed, 21 Oct 2026 01:32:56 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixes &quot;Gmail asked PushMail to slow down&quot;: reloading now downloads only new or changed conversations</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.1.1/PushMail-0.1.1.zip" sparkle:edSignature="AksioFX3hs6nVHvuedT74N0PpOfl7lnOhYSJvz269ctmDXgl837+FuoUBUUR4jaHbiWOfXCfBqNPbFlnVedHCA==" length="4698747" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <pubDate>Wed, 21 Oct 2026 00:26:20 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
