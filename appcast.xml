@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.1.7</title>
+      <pubDate>Thu, 22 Oct 2026 19:11:32 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed a sent reply sometimes coming back as a draft when it was sent while autosave was still running</li><li>Discard and Undo Send no longer leave stray copies in Gmail Drafts</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.1.7/PushMail-0.1.7.zip" sparkle:edSignature="6fbIEx/2tutUHm5BexkxyCqYBJO5RvatRC1t17fUhywtvmD0cY7NVxV/RwF+te72/wzxKdNN/HMidkZ8+cMEBQ==" length="4844415" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.6</title>
       <pubDate>Thu, 22 Oct 2026 18:42:47 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
