@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.2.1</title>
+      <pubDate>Thu, 22 Oct 2026 20:41:40 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Denser inbox: two-line rows, quieter tags, and only the sender in bold when unread</li><li>Hover a conversation to reply, mark it read or archive it without opening it</li><li>Archive leads the reader toolbar (E); Reply is the one main button below</li><li>The brief card shows what&#x27;s waiting in numbers, and shrinks once you&#x27;ve read today&#x27;s brief</li><li>A proper inbox zero: you&#x27;re all caught up, with what&#x27;s next</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.2.1/PushMail-0.2.1.zip" sparkle:edSignature="PXN3SfysLkO9m+lAC1Jxpxitcb+DXjqNf430heDiEw3F+k/CYvAYHGJG9npx10/pGB1JPgtWkc7QiEq36btMDA==" length="4878703" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Thu, 22 Oct 2026 20:19:20 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
