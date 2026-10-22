@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Thu, 22 Oct 2026 20:19:20 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>One unified inbox: every Gmail account plus Slack, GitHub and Notion in a single list, grouped by day</li><li>Newsletters, receipts and notifications fold into one expandable updates row per day</li><li>Chips above the list show one account or integration (⌘1–9); the Daily Brief is a card at the top</li><li>No more sidebar, tabs, star, snooze, labels or spam; Drafts, Sent, Trash and search are in ⌘K and cover every account</li><li>Anything you had snoozed is back in your inbox</li><li>Invites are answered from the account they arrived in</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.2.0/PushMail-0.2.0.zip" sparkle:edSignature="LVOWpjh4PLsx425cj3TOkJgFBy7qD8t/l8bQKI8nUn0FJnPHrozlXTNbthMrSgYs7FAt+a06ldkJLZMZ94wTDA==" length="4835380" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.7</title>
       <pubDate>Thu, 22 Oct 2026 19:11:32 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
