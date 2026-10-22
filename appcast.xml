@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.2.3</title>
+      <pubDate>Thu, 22 Oct 2026 22:16:47 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Selected conversations now use a soft blue highlight that stays readable everywhere, including inside open updates</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.2.3/PushMail-0.2.3.zip" sparkle:edSignature="NyNtfyZOG0hBEyX3JtgbT4A4FtMN3OzCYRTKEFJ9Vj8GtkvAAj7anpTMtWxfQ71s0a+E6TkH1lBLMS/ltpdvDg==" length="4892138" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.2</title>
       <pubDate>Thu, 22 Oct 2026 22:08:05 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
