@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Thu, 22 Oct 2026 18:24:38 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sign in with Slack and Notion from Settings › Integrations, no tokens needed</li><li>Notion asks which pages to share while you sign in, so there&#x27;s no separate sharing step</li><li>Pasting a token still works, under &quot;Use a token instead&quot;</li></ul>]]></description>
+      <enclosure url="https://github.com/pushrefresh/pushmail-releases/releases/download/v0.1.5/PushMail-0.1.5.zip" sparkle:edSignature="zMCb5cLoEPbibqh79TgpDePg3NB4KbDYkxcKCwUWdLJVi9sh50LgzD7VDk2DomPEkrnZM/DD1yWY47DL2gPbAg==" length="4860341" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <pubDate>Thu, 22 Oct 2026 17:40:13 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
